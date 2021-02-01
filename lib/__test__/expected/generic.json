@@ -1,0 +1,15 @@
+{
+  "double": 3.14,
+  "array": ["arrayString"],
+  "null": null,
+  "reference": "projects/{project}/databases/(default)/documents/{collection}/{id}",
+  "map": { "mapString": "mapString" },
+  "string": "name",
+  "geopoint": {
+    "latitude": 40.7531823,
+    "longitude": -73.9844421
+  },
+  "integer": 42,
+  "timestamp": "2021-01-31T17:34:56.123Z",
+  "boolean": true
+}

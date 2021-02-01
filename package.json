@@ -1,0 +1,35 @@
+{
+  "name": "firestore-document-parser",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Tal Luigi",
+  "license": "MIT",
+  "main": "./lib/index.js",
+  "files": [
+    "/lib"
+  ],
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "keywords": [
+    "firestore",
+    "rest",
+    "api",
+    "document",
+    "parser",
+    "parse",
+    "flatten",
+    "json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuigiLegion/firestore-document-parser.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LuigiLegion/firestore-document-parser/issues"
+  },
+  "homepage": "https://github.com/LuigiLegion/firestore-document-parser#readme"
+}

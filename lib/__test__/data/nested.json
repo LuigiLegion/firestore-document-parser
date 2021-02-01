@@ -1,0 +1,553 @@
+{
+  "name": "projects/{project}/databases/(default)/documents/{collection}/{id}",
+  "fields": {
+    "name": {
+      "stringValue": "THE STRAND SMOKE HOUSE"
+    },
+    "street": {
+      "stringValue": "BROADWAY"
+    },
+    "inspections": {
+      "arrayValue": {
+        "values": [
+          {
+            "mapValue": {
+              "fields": {
+                "grade": {
+                  "stringValue": "B"
+                },
+                "violations": {
+                  "arrayValue": {
+                    "values": [
+                      {
+                        "mapValue": {
+                          "fields": {
+                            "description": {
+                              "stringValue": "Evidence of mice or live mice present in facility's food and/or non-food areas."
+                            },
+                            "critical": {
+                              "booleanValue": true
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "mapValue": {
+                          "fields": {
+                            "description": {
+                              "stringValue": "Sanitized equipment or utensil, including in-use food dispensing utensil, improperly used or stored."
+                            },
+                            "critical": {
+                              "booleanValue": true
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "mapValue": {
+                          "fields": {
+                            "description": {
+                              "stringValue": "Hot food item not held at or above 140º F."
+                            },
+                            "critical": {
+                              "booleanValue": true
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                "score": {
+                  "stringValue": "19"
+                },
+                "date": {
+                  "stringValue": "2/8/2020"
+                }
+              }
+            }
+          },
+          {
+            "mapValue": {
+              "fields": {
+                "violations": {
+                  "arrayValue": {
+                    "values": [
+                      {
+                        "mapValue": {
+                          "fields": {
+                            "critical": {
+                              "booleanValue": true
+                            },
+                            "description": {
+                              "stringValue": "Hot food item not held at or above 140º F."
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "mapValue": {
+                          "fields": {
+                            "critical": {
+                              "booleanValue": false
+                            },
+                            "description": {
+                              "stringValue": "Plumbing not properly installed or maintained; anti-siphonage or backflow prevention device not provided where required; equipment or floor not properly drained; sewage disposal system in disrepair or not functioning properly."
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "mapValue": {
+                          "fields": {
+                            "description": {
+                              "stringValue": "Cold food item held above 41º F (smoked fish and reduced oxygen packaged foods above 38 ºF) except during necessary preparation."
+                            },
+                            "critical": {
+                              "booleanValue": true
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "mapValue": {
+                          "fields": {
+                            "critical": {
+                              "booleanValue": true
+                            },
+                            "description": {
+                              "stringValue": "Food contact surface not properly washed, rinsed and sanitized after each use and following any activity when contamination may have occurred."
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "mapValue": {
+                          "fields": {
+                            "description": {
+                              "stringValue": "Food not protected from potential source of contamination during storage, preparation, transportation, display or service."
+                            },
+                            "critical": {
+                              "booleanValue": true
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "mapValue": {
+                          "fields": {
+                            "critical": {
+                              "booleanValue": true
+                            },
+                            "description": {
+                              "stringValue": "Evidence of mice or live mice present in facility's food and/or non-food areas."
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "mapValue": {
+                          "fields": {
+                            "description": {
+                              "stringValue": "Facility not vermin proof. Harborage or conditions conducive to attracting vermin to the premises and/or allowing vermin to exist."
+                            },
+                            "critical": {
+                              "booleanValue": false
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                "score": {
+                  "stringValue": "60"
+                },
+                "date": {
+                  "stringValue": "1/31/2020"
+                },
+                "grade": {
+                  "nullValue": null
+                }
+              }
+            }
+          },
+          {
+            "mapValue": {
+              "fields": {
+                "score": {
+                  "stringValue": "13"
+                },
+                "violations": {
+                  "arrayValue": {
+                    "values": [
+                      {
+                        "mapValue": {
+                          "fields": {
+                            "description": {
+                              "stringValue": "Filth flies or food/refuse/sewage-associated (FRSA) flies present in facility’s food and/or non-food areas. Filth flies include house flies, little house flies, blow flies, bottle flies and flesh flies. Food/refuse/sewage-associated flies include fruit flies, drain flies and Phorid flies."
+                            },
+                            "critical": {
+                              "booleanValue": true
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "mapValue": {
+                          "fields": {
+                            "critical": {
+                              "booleanValue": false
+                            },
+                            "description": {
+                              "stringValue": "Current letter grade card not posted."
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "mapValue": {
+                          "fields": {
+                            "critical": {
+                              "booleanValue": true
+                            },
+                            "description": {
+                              "stringValue": "Hot food item not held at or above 140º F."
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                "date": {
+                  "stringValue": "8/7/2019"
+                },
+                "grade": {
+                  "stringValue": "A"
+                }
+              }
+            }
+          },
+          {
+            "mapValue": {
+              "fields": {
+                "score": {
+                  "nullValue": null
+                },
+                "violations": {
+                  "arrayValue": {
+                    "values": [
+                      {
+                        "mapValue": {
+                          "fields": {
+                            "description": {
+                              "stringValue": "Current letter grade card not posted."
+                            },
+                            "critical": {
+                              "booleanValue": false
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "mapValue": {
+                          "fields": {
+                            "critical": {
+                              "booleanValue": false
+                            },
+                            "description": {
+                              "stringValue": "Facility not vermin proof. Harborage or conditions conducive to attracting vermin to the premises and/or allowing vermin to exist."
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "mapValue": {
+                          "fields": {
+                            "critical": {
+                              "booleanValue": true
+                            },
+                            "description": {
+                              "stringValue": "Filth flies or food/refuse/sewage-associated (FRSA) flies present in facility’s food and/or non-food areas. Filth flies include house flies, little house flies, blow flies, bottle flies and flesh flies. Food/refuse/sewage-associated flies include fruit flies, drain flies and Phorid flies."
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "mapValue": {
+                          "fields": {
+                            "critical": {
+                              "booleanValue": true
+                            },
+                            "description": {
+                              "stringValue": "Food worker does not use proper utensil to eliminate bare hand contact with food that will not receive adequate additional heat treatment."
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                "date": {
+                  "stringValue": "6/6/2019"
+                },
+                "grade": {
+                  "nullValue": null
+                }
+              }
+            }
+          },
+          {
+            "mapValue": {
+              "fields": {
+                "score": {
+                  "stringValue": "38"
+                },
+                "violations": {
+                  "arrayValue": {
+                    "values": [
+                      {
+                        "mapValue": {
+                          "fields": {
+                            "description": {
+                              "stringValue": "Food from unapproved or unknown source or home canned. Reduced oxygen packaged (ROP) fish not frozen before processing; or ROP foods prepared on premises transported to another site."
+                            },
+                            "critical": {
+                              "booleanValue": true
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "mapValue": {
+                          "fields": {
+                            "description": {
+                              "stringValue": "Evidence of mice or live mice present in facility's food and/or non-food areas."
+                            },
+                            "critical": {
+                              "booleanValue": true
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "mapValue": {
+                          "fields": {
+                            "description": {
+                              "stringValue": "Food Protection Certificate not held by supervisor of food operations."
+                            },
+                            "critical": {
+                              "booleanValue": true
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "mapValue": {
+                          "fields": {
+                            "critical": {
+                              "booleanValue": false
+                            },
+                            "description": {
+                              "stringValue": "Facility not vermin proof. Harborage or conditions conducive to attracting vermin to the premises and/or allowing vermin to exist."
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "mapValue": {
+                          "fields": {
+                            "critical": {
+                              "booleanValue": true
+                            },
+                            "description": {
+                              "stringValue": "Hot food item not held at or above 140º F."
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                "grade": {
+                  "stringValue": "C"
+                },
+                "date": {
+                  "stringValue": "10/24/2018"
+                }
+              }
+            }
+          },
+          {
+            "mapValue": {
+              "fields": {
+                "violations": {
+                  "arrayValue": {
+                    "values": [
+                      {
+                        "mapValue": {
+                          "fields": {
+                            "critical": {
+                              "booleanValue": true
+                            },
+                            "description": {
+                              "stringValue": "Food not protected from potential source of contamination during storage, preparation, transportation, display or service."
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "mapValue": {
+                          "fields": {
+                            "description": {
+                              "stringValue": "Filth flies or food/refuse/sewage-associated (FRSA) flies present in facility’s food and/or non-food areas. Filth flies include house flies, little house flies, blow flies, bottle flies and flesh flies. Food/refuse/sewage-associated flies include fruit flies, drain flies and Phorid flies."
+                            },
+                            "critical": {
+                              "booleanValue": true
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "mapValue": {
+                          "fields": {
+                            "description": {
+                              "stringValue": "Hot food item not held at or above 140º F."
+                            },
+                            "critical": {
+                              "booleanValue": true
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "mapValue": {
+                          "fields": {
+                            "critical": {
+                              "booleanValue": true
+                            },
+                            "description": {
+                              "stringValue": "Raw, cooked or prepared food is adulterated, contaminated, cross-contaminated, or not discarded in accordance with HACCP plan."
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "mapValue": {
+                          "fields": {
+                            "description": {
+                              "stringValue": "Insufficient or no refrigerated or hot holding equipment to keep potentially hazardous foods at required temperatures."
+                            },
+                            "critical": {
+                              "booleanValue": true
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "mapValue": {
+                          "fields": {
+                            "description": {
+                              "stringValue": "Facility not vermin proof. Harborage or conditions conducive to attracting vermin to the premises and/or allowing vermin to exist."
+                            },
+                            "critical": {
+                              "booleanValue": false
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                "date": {
+                  "stringValue": "3/13/2018"
+                },
+                "grade": {
+                  "nullValue": null
+                },
+                "score": {
+                  "stringValue": "62"
+                }
+              }
+            }
+          },
+          {
+            "mapValue": {
+              "fields": {
+                "score": {
+                  "stringValue": "5"
+                },
+                "grade": {
+                  "stringValue": "A"
+                },
+                "violations": {
+                  "arrayValue": {
+                    "values": [
+                      {
+                        "mapValue": {
+                          "fields": {
+                            "description": {
+                              "stringValue": "Wiping cloths soiled or not stored in sanitizing solution."
+                            },
+                            "critical": {
+                              "booleanValue": true
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                "date": {
+                  "stringValue": "10/6/2017"
+                }
+              }
+            }
+          },
+          {
+            "mapValue": {
+              "fields": {
+                "violations": {
+                  "arrayValue": {}
+                },
+                "score": {
+                  "stringValue": "29"
+                },
+                "grade": {
+                  "nullValue": null
+                },
+                "date": {
+                  "stringValue": "7/17/2017"
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "state": {
+      "stringValue": "NY"
+    },
+    "borough": {
+      "stringValue": "Queens"
+    },
+    "phone": {
+      "stringValue": "7184403231"
+    },
+    "longitude": {
+      "stringValue": "-73.92819546732"
+    },
+    "zip": {
+      "stringValue": "11106"
+    },
+    "building": {
+      "stringValue": "25-27"
+    },
+    "latitude": {
+      "stringValue": "40.7633079547"
+    }
+  },
+  "createTime": "2021-01-28T04:09:28.490846Z",
+  "updateTime": "2021-01-28T04:09:28.490846Z"
+}

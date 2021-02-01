@@ -1,0 +1,52 @@
+{
+  "name": "projects/{project}/databases/(default)/documents/{collection}/{id}",
+  "fields": {
+    "double": {
+      "doubleValue": 3.14
+    },
+    "array": {
+      "arrayValue": {
+        "values": [
+          {
+            "stringValue": "arrayString"
+          }
+        ]
+      }
+    },
+    "null": {
+      "nullValue": null
+    },
+    "reference": {
+      "referenceValue": "projects/{project}/databases/(default)/documents/{collection}/{id}"
+    },
+    "map": {
+      "mapValue": {
+        "fields": {
+          "mapString": {
+            "stringValue": "mapString"
+          }
+        }
+      }
+    },
+    "string": {
+      "stringValue": "name"
+    },
+    "geopoint": {
+      "geoPointValue": {
+        "latitude": 40.7531823,
+        "longitude": -73.9844421
+      }
+    },
+    "integer": {
+      "integerValue": "42"
+    },
+    "timestamp": {
+      "timestampValue": "2021-01-31T17:34:56.123Z"
+    },
+    "boolean": {
+      "booleanValue": true
+    }
+  },
+  "createTime": "2021-01-31T20:30:43.030979Z",
+  "updateTime": "2021-01-31T20:30:43.030979Z"
+}
