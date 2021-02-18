@@ -8,7 +8,7 @@
       "arrayValue": {
         "values": [
           {
-            "stringValue": "arrayString"
+            "stringValue": "FizzBuzz"
           }
         ]
       }
@@ -22,14 +22,14 @@
     "map": {
       "mapValue": {
         "fields": {
-          "mapString": {
-            "stringValue": "mapString"
+          "hello": {
+            "stringValue": "world"
           }
         }
       }
     },
     "string": {
-      "stringValue": "name"
+      "stringValue": "The quick brown fox jumps over the lazy dog. If the dog reacted, was it really lazy?"
     },
     "geopoint": {
       "geoPointValue": {
