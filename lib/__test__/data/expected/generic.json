@@ -1,6 +1,6 @@
 {
   "double": 3.14,
-  "array": ["FizzBuzz"],
+  "array": ["Fizz", "Buzz", "FizzBuzz"],
   "null": null,
   "reference": "projects/{project}/databases/(default)/documents/{collection}/{id}",
   "map": { "hello": "world" },

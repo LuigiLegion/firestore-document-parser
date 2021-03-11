@@ -8,6 +8,12 @@
       "arrayValue": {
         "values": [
           {
+            "stringValue": "Fizz"
+          },
+          {
+            "stringValue": "Buzz"
+          },
+          {
             "stringValue": "FizzBuzz"
           }
         ]
