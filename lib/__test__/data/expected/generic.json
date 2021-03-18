@@ -3,13 +3,13 @@
   "array": ["Fizz", "Buzz", "FizzBuzz"],
   "null": null,
   "reference": "projects/{project}/databases/(default)/documents/{collection}/{id}",
-  "map": { "hello": "world" },
-  "string": "The quick brown fox jumps over the lazy dog. If the dog reacted, was it really lazy?",
+  "map": { "pangram": "The quick brown fox jumps over the lazy dog" },
+  "string": "Hello, World!",
   "geopoint": {
     "latitude": 40.7531823,
     "longitude": -73.9844421
   },
   "integer": 42,
-  "timestamp": "2021-01-31T17:34:56.123Z",
+  "timestamp": "2021-01-31T12:34:56.789Z",
   "boolean": true
 }

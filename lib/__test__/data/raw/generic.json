@@ -28,14 +28,14 @@
     "map": {
       "mapValue": {
         "fields": {
-          "hello": {
-            "stringValue": "world"
+          "pangram": {
+            "stringValue": "The quick brown fox jumps over the lazy dog"
           }
         }
       }
     },
     "string": {
-      "stringValue": "The quick brown fox jumps over the lazy dog. If the dog reacted, was it really lazy?"
+      "stringValue": "Hello, World!"
     },
     "geopoint": {
       "geoPointValue": {
@@ -47,7 +47,7 @@
       "integerValue": "42"
     },
     "timestamp": {
-      "timestampValue": "2021-01-31T17:34:56.123Z"
+      "timestampValue": "2021-01-31T12:34:56.789Z"
     },
     "boolean": {
       "booleanValue": true
