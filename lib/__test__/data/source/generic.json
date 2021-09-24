@@ -8,7 +8,13 @@
       "arrayValue": {
         "values": [
           {
-            "stringValue": "arrayString"
+            "stringValue": "Fizz"
+          },
+          {
+            "stringValue": "Buzz"
+          },
+          {
+            "stringValue": "FizzBuzz"
           }
         ]
       }
@@ -22,14 +28,14 @@
     "map": {
       "mapValue": {
         "fields": {
-          "mapString": {
-            "stringValue": "mapString"
+          "pangram": {
+            "stringValue": "The quick brown fox jumps over the lazy dog"
           }
         }
       }
     },
     "string": {
-      "stringValue": "name"
+      "stringValue": "Hello, World!"
     },
     "geopoint": {
       "geoPointValue": {
@@ -41,7 +47,7 @@
       "integerValue": "42"
     },
     "timestamp": {
-      "timestampValue": "2021-01-31T17:34:56.123Z"
+      "timestampValue": "2021-01-31T12:34:56.789Z"
     },
     "boolean": {
       "booleanValue": true
