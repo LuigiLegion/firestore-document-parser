@@ -1,5 +1,7 @@
 # Firestore Document Parser
 
+![Node.js CI](https://github.com/luigilegion/firestore-document-parser/actions/workflows/nodejs.yml/badge.svg)
+
 ### Video Presentation:
 
 Coming soon...
