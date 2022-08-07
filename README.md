@@ -2,24 +2,24 @@
 
 ![Node.js CI](https://github.com/luigilegion/firestore-document-parser/actions/workflows/nodejs.yml/badge.svg)
 
-### Video Presentation:
+## Video Presentation
 
 Coming soon...
 
-### Published npm Package:
+## Published npm Package
 
 Coming soon...
 
-### Description:
+## Description
 
 npm package that parses the nested data in a document retrieved from a Firestore database's REST API, flattening it into a standard JavaScript object.
 
 MVP completed in a day for a solo project.
 
-### Tech Stack:
+## Tech Stack
 
 Built using Vanilla JavaScript.
 
-### Dev Team:
+## Dev Team
 
 - Tal Luigi ([LinkedIn](https://www.linkedin.com/in/talluigi) | [GitHub](https://github.com/luigilegion))
