@@ -18,7 +18,7 @@ MVP completed in a day for a solo project.
 
 ### Tech Stack:
 
-Built using Vanilla JavaScript and Jest.
+Built using Vanilla JavaScript.
 
 ### Dev Team:
 
